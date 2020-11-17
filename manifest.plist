@@ -1,3 +1,4 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <dict>
 <key>kind</key>
 <string>software-package</string>
@@ -16,3 +17,4 @@
 <key>url</key>
 <string>http://www.24kgongyinglian.com/static/152x152.png</string>
 </dict>
+</plist>
